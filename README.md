@@ -3,7 +3,7 @@
 
 ## 🔗 Live link
 
-**[https://foodyville.netlify.app/](https://foodyville.netlify.app/)**
+**[]()**
 
 
 ## 💻 Tech-Stack 
